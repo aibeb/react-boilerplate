@@ -1,5 +1,3 @@
-# <div align="center"><img src="https://cloud.githubusercontent.com/assets/21308003/18472722/9fae90f6-79eb-11e6-8e42-ebca5e9b5cc9.png" height="250px" alt="Banner" /></div>
-
 A simple but feature rich starter boilerplate for creating your own  [universal](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.mtjf14xy5) app. It built on the top of [Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/), [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux) and [React Router v4](https://reacttraining.com/react-router/). Includes all the hot stuff and modern web development tools such as [Webpack 2](https://webpack.js.org/), [Babel](https://babeljs.io/), [PostCSS](https://github.com/postcss/postcss-loader), [React Hot Loader 3](https://github.com/gaearon/react-hot-loader) and [Redux Devtools Extension](https://github.com/zalmoxisus/redux-devtools-extension). See section [**“Features”**](#features) for more other awesome features you can expect.
 
 I will improve the starter boilerplate continuously and keep all of the technologies on trend. Welcome to join me if you want. Hope you guys love it 😉
@@ -11,12 +9,6 @@ I will improve the starter boilerplate continuously and keep all of the technolo
 [![devDependencies Status](https://david-dm.org//dev-status.svg)](https://david-dm.org/?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github//badge.svg?branch=master)](https://coveralls.io/github/?branch=master)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com//master/LICENSE)
-
-
-## Real Case Study
-
-* [BECK Friends](https://www.beckfriends.com/) is an international deliver service, which is built base on this starter boilerplate. Congrats for successful migrating to React.
-
 
 ## Features
 

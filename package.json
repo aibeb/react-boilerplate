@@ -1,7 +1,7 @@
 {
   "name": "react-boilerplate",
   "version": "1.2.0",
-  "description": "A react boilerplate for an universal web application with the best development experience and best practices.",
+  "description": "🔥 A react boilerplate for an universal web application with the best development experience and best practices.",
   "main": "index.js",
   "engines": {
     "node": ">=5.0 <8",
