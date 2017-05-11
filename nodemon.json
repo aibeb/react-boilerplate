@@ -1,0 +1,9 @@
+{
+  "watch": [
+    "index.js",
+    "tools/webpack/",
+    "!tools/webpack/webpack.server.babel.js",
+    "app/server.js",
+    "app/utils/Html.js"
+  ]
+}
